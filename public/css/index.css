@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+    border:0;
+    background-color: darkslategray;
+    color:white;
+}
+header{
+    position: fixed;
+    top: 0;
+    left:0;
+    padding-top: 5px;
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    background-color: darkolivegreen;
+    font-size: 1.4em;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    left:0;
+    height: 20px;
+    width: 100%;
+    text-align: center;
+}
+a{
+    color:white;
+    text-decoration: underline;
+}
